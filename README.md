@@ -6,7 +6,7 @@ A deep learning-based project that uses **Transfer Learning with MobileNet** to 
 
 ## 📚 Table of Contents
 
-- [📁 Dataset](#-dataset)
+- [📁 Dataset from Kaggle](#-dataset)
 - [🧠 Model Architecture](#-model-architecture)
 - [🛠️ Data Preprocessing](#️-data-preprocessing)
 - [🏃 Training](#-training)
