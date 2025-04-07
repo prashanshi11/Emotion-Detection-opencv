@@ -209,7 +209,7 @@ cd emotion-detection
 
 2. 📁 Upload and unzip the FER-2013 dataset.
 
-3. ▶️ Run `model_training.ipynb` on https://colab.research.google.com/drive/18vv1FeEy2AlXZuWRk3LViWzMFf51A45b#scrollTo=ChZw-vz_51x
+3. ▶️ Run `model_training.ipynb` on (https://colab.research.google.com/github/prashanshi11/Emotion-Detection-opencv/blob/main/Emotion_Detection.ipynb)
 
 4. 🧠 Train the model and save the best version as `best_model.h5`.
 
